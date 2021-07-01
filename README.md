@@ -1,6 +1,6 @@
 # Project 5
 
-We made a project that writes and reads an XML file that contains information about our team (ex. each team member's names) using threads, while keeping in mind that the code must be clean. 
+The project writes and reads an XML file that contains information about our team (ex. each team member's names) using threads, while keeping in mind that the code must be clean. 
 
 > 📝 Note: The project has been uploaded on a GitHub organization.
 
