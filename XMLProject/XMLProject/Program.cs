@@ -6,42 +6,26 @@ namespace xml
 {
     class xml
     {
+
+        static XmlElement CreateXmlElement(XmlDocument xmldoc, string Name) => xmldoc.CreateElement(Name);
+        static XmlText CreateXmlText(XmlDocument xmldoc, string name) => xmldoc.CreateTextNode("Name " + name);
         static void CreateXMLFile()
         {
             XmlDocument xmldoc = new XmlDocument();
             XmlElement root = xmldoc.CreateElement("Catalog");
             xmldoc.AppendChild(root);
-           
 
-            XmlElement element3 = xmldoc.CreateElement("Book");
-            XmlText text3 = xmldoc.CreateTextNode("");
-            root.AppendChild(element3);
-            element3.AppendChild(text3);
+            root.AppendChild(CreateXmlElement(xmldoc, "Name").AppendChild(CreateXmlText(xmldoc, "Nada")));
 
-            XmlElement element4 = xmldoc.CreateElement("author");
-            XmlText text4 = xmldoc.CreateTextNode("Gammbardelle  ");
-            element3.AppendChild(element4);
-            element4.AppendChild(text4);
+            root.AppendChild(CreateXmlElement(xmldoc, "Name").AppendChild(CreateXmlText(xmldoc, "Reham")));
 
-            XmlElement element5 = xmldoc.CreateElement("title");
-            XmlText text5 = xmldoc.CreateTextNode("XML developer's Guide ");
-            element3.AppendChild(element5);
-            element5.AppendChild(text5);
+            root.AppendChild(CreateXmlElement(xmldoc, "Name").AppendChild(CreateXmlText(xmldoc, "Abdullah")));
 
-            XmlElement element6 = xmldoc.CreateElement("price");
-            XmlText text6 = xmldoc.CreateTextNode("150.7");
-            element3.AppendChild(element6);
-            element6.AppendChild(text6);
+            root.AppendChild(CreateXmlElement(xmldoc, "Name").AppendChild(CreateXmlText(xmldoc, "Abdulmajeed")));
 
-           
+            root.AppendChild(CreateXmlElement(xmldoc, "Name").AppendChild(CreateXmlText(xmldoc, "Abdulrahman")));
 
-            XmlElement element8 = xmldoc.CreateElement("Descriptions");
-            XmlText text8 = xmldoc.CreateTextNode("An in-depth look at creating applications with XML.");
-            element3.AppendChild(element8);
-            element8.AppendChild(text8);
             xmldoc.Save(@"email.xml");
-            //Console.WriteLine(xmldoc.InnerXml);
-
 
         }
 

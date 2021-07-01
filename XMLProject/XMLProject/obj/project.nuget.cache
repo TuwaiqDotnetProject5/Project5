@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hIpZ9kG1SjhNzGCvgmwNhf43ORFTI1KvUBty0pxrQMh4GHPKv2kl5tFmzSbQoMQ6lHF43WZ981wuCx68CUNa5Q==",
+  "dgSpecHash": "1XrV3lYqAkE3gmxQaqmGTRxAzFlDI8gVxq8jEsceLWHEyThccUObg7Z2CfgNIkJ3FNOV7241SnL+Fryy4qs4AA==",
   "success": true,
-  "projectFilePath": "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/XMLProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\1Tuwaiq\\Projects\\Project5\\XMLProject\\XMLProject\\XMLProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a-22_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
   "logs": []
 }

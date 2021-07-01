@@ -10,3 +10,16 @@
 /Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.dll
 /Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.pdb
 /Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.genruntimeconfig.cache
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.exe
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.deps.json
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.runtimeconfig.json
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.runtimeconfig.dev.json
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.dll
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\bin\Debug\netcoreapp3.1\XMLProject.pdb
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.csprojAssemblyReference.cache
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.AssemblyInfoInputs.cache
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.AssemblyInfo.cs
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.csproj.CoreCompileInputs.cache
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.dll
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.pdb
+C:\1Tuwaiq\Projects\Project5\XMLProject\XMLProject\obj\Debug\netcoreapp3.1\XMLProject.genruntimeconfig.cache
