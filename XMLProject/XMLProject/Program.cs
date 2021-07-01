@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Xml;
 
 namespace xml
@@ -38,8 +39,8 @@ namespace xml
             XmlText text8 = xmldoc.CreateTextNode("An in-depth look at creating applications with XML.");
             element3.AppendChild(element8);
             element8.AppendChild(text8);
-            xmldoc.Save(@"/Users/nadaalotaibi/Downloads/Decomnt/email.xml");
-            Console.WriteLine(xmldoc.InnerXml);
+            xmldoc.Save(@"email.xml");
+            //Console.WriteLine(xmldoc.InnerXml);
 
 
         }
@@ -47,7 +48,7 @@ namespace xml
         static void ReadXMLFile()
         {
             XmlDocument xmldoc = new XmlDocument();
-            xmldoc.Load(@"/Users/nadaalotaibi/Downloads/Decomnt/email.xml");
+            xmldoc.Load(@"email.xml");
             foreach (XmlNode node in xmldoc.DocumentElement.ChildNodes)
             {
                 string element = node.Name;
@@ -61,9 +62,13 @@ namespace xml
 
         static void Main(string[] args)
         {
-           // CreateXMLFile();
-            ReadXMLFile();
+            Thread writer = new Thread(CreateXMLFile);
+            Thread reader = new Thread(ReadXMLFile);
 
+            writer.Start();
+            writer.Join();
+            reader.Start();
+            reader.Join();
         }
 
     }
