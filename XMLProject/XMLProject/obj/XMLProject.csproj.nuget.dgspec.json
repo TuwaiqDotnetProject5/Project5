@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/XMLProject.csproj": {}
+  },
+  "projects": {
+    "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/XMLProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/XMLProject.csproj",
+        "projectName": "XMLProject",
+        "projectPath": "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/XMLProject.csproj",
+        "packagesPath": "/Users/nadaalotaibi/.nuget/packages/",
+        "outputPath": "/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nadaalotaibi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

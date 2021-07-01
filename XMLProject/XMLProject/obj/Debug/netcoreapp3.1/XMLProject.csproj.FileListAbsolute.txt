@@ -1,0 +1,12 @@
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/bin/Debug/netcoreapp3.1/XMLProject.deps.json
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/bin/Debug/netcoreapp3.1/XMLProject.runtimeconfig.json
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/bin/Debug/netcoreapp3.1/XMLProject.runtimeconfig.dev.json
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/bin/Debug/netcoreapp3.1/XMLProject.dll
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/bin/Debug/netcoreapp3.1/XMLProject.pdb
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.csproj.AssemblyReference.cache
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.AssemblyInfoInputs.cache
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.AssemblyInfo.cs
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.csproj.CoreCompileInputs.cache
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.dll
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.pdb
+/Users/nadaalotaibi/Desktop/Project5/XMLProject/XMLProject/obj/Debug/netcoreapp3.1/XMLProject.genruntimeconfig.cache
